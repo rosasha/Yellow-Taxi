@@ -17,4 +17,4 @@
 - Неделя 5 -- линейная модель,
 - Неделя 6 -- финальная модель (градиентный бустинг),
 - Неделя 7 -- лаконичная демонстрация результатов проекта.
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)
+[![маразМа](https://www.netlify.com/img/deploy/button.svg)
